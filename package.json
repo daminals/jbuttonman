@@ -1,5 +1,5 @@
 {
-  "name": "crylol",
+  "name": "jbuttonman",
   "version": "1.0.0",
   "engines": {
     "node": "12.9.1",
@@ -28,12 +28,12 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/daminals/crylol.git"
+    "url": "git+https://github.com/daminals/jbuttonman.git"
   },
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/daminals/crylol/issues"
+    "url": "https://github.com/daminals/jbuttonman/issues"
   },
-  "homepage": "https://github.com/daminals/crylol#readme",
+  "homepage": "https://github.com/daminals/jbuttonman#readme",
   "description": ""
 }
