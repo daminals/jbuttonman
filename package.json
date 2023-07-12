@@ -2,16 +2,16 @@
   "name": "jbuttonman",
   "version": "1.0.0",
   "engines": {
-    "node": "12.9.1",
+    "node": "18.9.1",
     "npm": "6.14.8"
   },
-  "main": "server.js",
+  "main": "api/index.js",
   "directories": {
     "lib": "lib"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "node api/index.js"
   },
   "keywords": [],
   "author": "Daniel Kogan",
